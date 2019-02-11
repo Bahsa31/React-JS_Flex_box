@@ -1,0 +1,8 @@
+emails_to_notify,kadarbasha.s@swiggy.in
+s3_path_name,resto
+schema_name,excel
+restaurant_id,DOUBLE
+restaurant_name,STRING
+description,STRING
+valid_from,STRING
+valid_till,STRING
